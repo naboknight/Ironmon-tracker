@@ -1,0 +1,68 @@
+[    
+    {
+        "name": "Mineral Badge",
+        "type": "toggle",
+        "img": "images/badges/mineral_badge.png",
+        "codes": "mineral_badge,badge"
+    },
+        {
+        "name": "Boulder Badge",
+        "type": "toggle",
+        "img": "images/badges/boulder_badge.png",
+        "codes": "boulder_badge,badge"
+    },
+    {
+        "name": "Cascade Badge",
+        "type": "toggle",
+        "img": "images/badges/cascade_badge.png",
+        "codes": "cascade_badge,badge"
+    },
+    {
+        "name": "Thunder Badge",
+        "type": "toggle",
+        "img": "images/badges/thunder_badge.png",
+        "codes": "thunder_badge,badge"
+    },
+	{
+        "name": "Rainbow Badge",
+        "type": "toggle",
+        "img": "images/badges/rainbow_badge.png",
+		"codes": "rainbow_badge,badge"
+    },
+    {
+        "name": "Soul Badge",
+        "type": "toggle",
+        "img": "images/badges/soul_badge.png",
+        "codes": "soul_badge,badge"
+    },
+    {
+        "name": "Marsh Badge",
+        "type": "toggle",
+        "img": "images/badges/marsh_badge.png",
+        "codes": "marsh_badge,badge"
+    },
+    {
+        "name": "Volcano Badge",
+        "type": "toggle",
+        "img": "images/badges/volcano_badge.png",
+        "codes": "volcano_badge,badge"
+    },
+    {
+        "name": "Earth Badge",
+        "type": "toggle",
+        "img": "images/badges/earth_badge.png",
+        "codes": "earth_badge,badge"
+    },    
+	{
+        "name": "silph",
+        "type": "toggle",
+        "img": "images/other/Silph_Sprite.png",
+        "codes": "silph"
+    },
+	{
+        "name": "SS Anne",
+        "type": "toggle",
+        "img": "images/other/ss.png",
+        "codes": "ssanne"
+    },
+]

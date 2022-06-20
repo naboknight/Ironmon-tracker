@@ -1,0 +1,14 @@
+﻿{
+    "name": "Ironmon",
+    "game_name": "Ironmon",
+    "platform": "gb",
+    "package_version": "2.0",
+    "package_uid": "Ironmon",
+    "author": "Nabo",
+    "variants": {
+		"horizontal": {
+            "display_name": "Badges"
+        },
+	
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"tracker_default": {
+	  "type": "container",
+	  	"width": 450,
+        "height": 70,
+	  "dropshadow": true,
+	  "content": {
+		"type": "array",
+		"orientation": "vertical",
+		"content": [
+		  {
+			"type": "layout",
+			"key": "tracker_items"
+		  },
+		]
+	  }
+	},
+	"tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "tracker_items"
+        }
+    }
+  }

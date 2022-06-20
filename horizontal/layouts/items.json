@@ -1,0 +1,46 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "rows": [                   
+                    [
+                        "boulder_badge",
+                        "Cascade_badge",                        
+                        "thunder_badge",
+						"rainbow_badge",
+                        "soul_badge",
+						"marsh_badge",
+						"volcano_badge",
+                        "earth_badge",            
+                    ],				
+                ]
+            },   
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_size": "60",
+                "item_margin": "-8,-8",
+                "rows": [                   
+                    [    
+                        "ssanne",                              
+                    ],				
+                ]
+            }, 
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                              "item_margin": "2,2",
+                "rows": [                   
+                    [                        
+                        "silph"            
+                    ],				
+                ]
+            },                 
+        ]
+    },
+}
